@@ -1,0 +1,65 @@
+# One Wikipedia article title per line. Lines starting with # are ignored.
+# --- Science ---
+Albert Einstein
+Theory of relativity
+Isaac Newton
+Marie Curie
+Charles Darwin
+Evolution
+Photosynthesis
+DNA
+Periodic table
+Black hole
+Solar System
+Moon
+Mars
+Climate change
+Electricity
+Penicillin
+Alexander Fleming
+Nikola Tesla
+Thomas Edison
+Water
+# --- Technology ---
+Python (programming language)
+World Wide Web
+Tim Berners-Lee
+Internet
+Artificial intelligence
+Machine learning
+Computer
+Alan Turing
+Transistor
+Linux
+# --- History ---
+World War I
+World War II
+French Revolution
+Industrial Revolution
+Roman Empire
+Ancient Egypt
+Renaissance
+Leonardo da Vinci
+Mughal Empire
+Ashoka
+Mahatma Gandhi
+Indian independence movement
+United Nations
+Nobel Prize
+Apollo 11
+Neil Armstrong
+# --- Geography and places ---
+India
+Delhi
+Taj Mahal
+Great Wall of China
+Mount Everest
+Himalayas
+Ganges
+Amazon River
+Sahara
+# --- People and general knowledge ---
+Rabindranath Tagore
+C. V. Raman
+A. P. J. Abdul Kalam
+Chandrayaan-3

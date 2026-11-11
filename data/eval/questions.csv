@@ -1,0 +1,25 @@
+qid,qtype,question
+Q01,in_kb,Who discovered penicillin and when?
+Q02,in_kb,What is the highest mountain on Earth and how tall is it?
+Q03,in_kb,Who proposed the theory of general relativity?
+Q04,in_kb,Who created the Python programming language?
+Q05,in_kb,Who invented the World Wide Web?
+Q06,in_kb,What is the Ganges and where does it flow?
+Q07,in_kb,Who built the Taj Mahal and why?
+Q08,in_kb,Who was Ashoka?
+Q09,in_kb,What did Marie Curie win Nobel Prizes for?
+Q10,in_kb,What was the Apollo 11 mission?
+Q11,in_kb,Who was Alan Turing?
+Q12,in_kb,What is photosynthesis?
+Q13,in_kb,What caused World War I?
+Q14,in_kb,Who was Rabindranath Tagore?
+Q15,in_kb,What is the Chandrayaan-3 mission?
+Q16,in_kb,What was the Industrial Revolution?
+Q17,false_premise,When did Albert Einstein win the Nobel Prize in Chemistry?
+Q18,false_premise,Why did Isaac Newton invent the telephone?
+Q19,false_premise,In what year did Mahatma Gandhi become the first Prime Minister of India?
+Q20,false_premise,Which Nobel Prize did Nikola Tesla win?
+Q21,false_premise,Who built the Great Wall of China in the 20th century?
+Q22,out_of_kb,Who won the 2022 FIFA World Cup?
+Q23,out_of_kb,What is the capital of Atlantis?
+Q24,out_of_kb,What is the plot of the Harry Potter novels?
