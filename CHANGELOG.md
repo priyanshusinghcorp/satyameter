@@ -1,7 +1,5 @@
 # Satyameter implementation changes
 
-## Updated project package
-
 - Added a conservative prompt-rewriting stage before retrieval. The original question is still sent to answer generation; the rewritten query is used for retrieval and displayed in the dashboard.
 - Added citation validation so a generated `[n]` marker is removed when that passage number was not supplied to the model.
 - Added an optional Ollama HTTP backend while retaining Groq as the default. This supports both a practical hosted backend for a low-resource laptop and a local alternative.
